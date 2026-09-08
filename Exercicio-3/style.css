@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    font-family: Arial;
+}
+
+header {
+    background: orange;
+    padding: 10px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+main {
+    display: flex;
+}
+
+nav {
+    background: #e5b900;
+    width: 220px;
+    padding: 10px;
+}
+
+nav h2 {
+    margin-top: 0;
+}
+
+nav a {
+    display: block;
+    margin-bottom: 5px;
+}
+
+nav img {
+    width: 200px;
+    height: 40px;
+}
+
+section {
+    padding: 10px;
+}
